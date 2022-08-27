@@ -2,6 +2,7 @@
 <h3 align="center">a passionate data analyst and game developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/af/c5/cd/afc5cdc69c1408abff7a21c75ad53ba4.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phinicz&label=Profile%20views&color=0e75b6&style=flat" alt="phinicz" /> </p>
 
 - 🔭 I’m currently working on **Airbnb data analysis**
