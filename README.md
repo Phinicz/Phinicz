@@ -1,15 +1,15 @@
 [![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1639257073921/pFyEqPD_o.gif?auto=format,compress&gif-q=60&format=webm)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">a passionate data analyst and game developer</h3>
+<h3 align="center">a passionate Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/af/c5/cd/afc5cdc69c1408abff7a21c75ad53ba4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phinicz&label=Profile%20views&color=0e75b6&style=flat" alt="phinicz" /> </p>
 
-- 🔭 I’m currently working on **Airbnb data analysis**
+- 🔭 I’m currently working on **WriteWise**
 
-- 🌱 I’m currently learning **pandas, scikit-learn, selenium**
+- 🌱 I’m currently learning **threeJS, Next, React**
 
-- 💬 Ask me about **C#, .NET, Unity, Firebase, Playfab, python and data analysis/web scrapping in general**
+- 💬 Ask me about **React, Next, payment processing, PostgreSQL, Tailwind, Python, C#, .NET, Unity, Firebase, Playfab, python and data analysis/web scrapping in general**
 
 - 📫 How to reach me **mohmedfakhry2012@gmail.com**
 
